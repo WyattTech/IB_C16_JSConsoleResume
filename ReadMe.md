@@ -1,5 +1,5 @@
 # Javascript Console Resume
-You will create a resume that exists entirely within the developer console */
+You will create a resume that exists entirely within the developer console 
 
 ## Objectives
 - Create a project folder linked to github, and inside that folder an index.html file and a javascript file. Link the JavaScript file to the index.html file.
