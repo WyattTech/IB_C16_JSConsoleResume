@@ -7,7 +7,7 @@ You will create a resume that exists entirely within the developer console */
 - When you open index.html in the browser, it will be a blank page. That's okay. Your resume will be in the console. (command + option + I, or F12)
 
 ### Your resume should display the following information:
-- our name
+- Your name
 - Your career/field
 - A short description of yourself
 - A list of your interests
